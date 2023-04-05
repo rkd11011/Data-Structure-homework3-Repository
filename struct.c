@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> 
 
 struct student1{//구조체 1 생성시 앞에 struct를 붙여야한다
     char lastName;
